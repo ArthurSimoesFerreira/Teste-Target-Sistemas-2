@@ -1,0 +1,10 @@
+Na primeira ida:
+- Ligo o interruptor 1 e o deixo ligado por alguns minutos. Depois, o desligo e ligo o interruptor 2.
+- Imediatamente, vou até uma das 3 salas.
+- Se a lâmpada estiver acesa, ela pertence ao interruptor 2.
+- Se a lâmpada estiver desligada e quente, ela pertence ao interruptor 1.
+- Se a lâmpada estiver desligada e fria, ela pertence ao interruptor 3.
+
+Na segunda ida:
+- Sabendo já a qual interruptor pertence uma das lâmpadas, apenas deixo um dos interruptores restantes ligado e o outro desligado.
+- Vou até outra sala e descubro as que pertencem as outras duas lâmpadas.
